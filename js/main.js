@@ -4,8 +4,6 @@ $(function() {
 		click : function() {
 			var i = $(this).parent().index();
 			if (i > 0) {
-				$(".header ul li").removeClass("active");
-				$(this).parent().addClass("active");
 				if (i == 1) { // 开始使用
 					$("#content > div").load("page/start.html", function() {
 						$(this).parent().attr("class", "start-content");
@@ -30,6 +28,11 @@ $(function() {
           window.open('/centit-ui/demo/index.html');
 				}
 			}
+
+			if ([0, 1, 2].indexOf(i) > -1) {
+        $(".header ul li").removeClass("active");
+        $(this).parent().addClass("active");
+      }
 		}
 	}, ".header ul a");
 
