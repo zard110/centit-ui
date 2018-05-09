@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b949b4b-cce7-49fa-8186-5ded8cfadbb0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/bottom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bottom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/build.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/connect.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/connect.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page1-bottom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page1-bottom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page1-content.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page1-content.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page2-bottom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page2-bottom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page2-content.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page2-content.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page3-bottom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page3-bottom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page3-content.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/page3-content.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/user.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/user.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -214,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +214,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +268,8 @@
       <workItem from="1525250632969" duration="812000" />
       <workItem from="1525423157525" duration="72000" />
       <workItem from="1525769903501" duration="905000" />
-      <workItem from="1525771875762" duration="200000" />
+      <workItem from="1525771875762" duration="823000" />
+      <workItem from="1525853750768" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="zerb">
       <created>1525770243043</created>
@@ -292,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7735000" />
+    <option name="totallyTimeSpent" value="8699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
@@ -331,17 +321,18 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
     <entry file="file://$PROJECT_DIR$/src/index.html" />
     <entry file="file://$PROJECT_DIR$/src/ui/app.js" />
     <entry file="file://$PROJECT_DIR$/src/index.html" />
@@ -356,22 +347,10 @@
     <entry file="file://$PROJECT_DIR$/demo/index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/src/ui/app.js" />
     <entry file="file://$PROJECT_DIR$/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/dist/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
